@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayyandeveloper&theme=onedark" alt="rayyandeveloper" /></a> </p>
 
 <p>
-- 🔭 I’m currently working on **Spiska Uz**
+- 🔭 I’m currently working on **CODU**
 
 - 🌱 I’m currently learning **Flutter and Django**
 
